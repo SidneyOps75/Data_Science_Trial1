@@ -1,0 +1,1001 @@
+Customer_ID,Churn,Age,Gender,PlanType,ContractLength,MonthlyCharges,DataUsage,CallDuration,Complaints,Location
+1,88,57,M,jcb,2/13/2023,5,77,77,Once,Tutem
+2,56,76,F,maestro,8/28/2023,16,35,79,Often,Colcabamba
+3,19,18,M,jcb,8/29/2023,57,77,6,Once,Fengle
+4,88,71,F,americanexpress,6/25/2023,87,51,57,Never,Tirapata
+5,73,97,F,maestro,11/15/2022,56,55,36,Once,Battaramulla South
+6,6,81,M,jcb,6/18/2023,25,90,66,Weekly,La Virgen
+7,95,56,F,diners-club-enroute,9/23/2023,78,33,12,Seldom,Altan-Ovoo
+8,26,84,M,jcb,5/1/2023,68,58,96,Yearly,Kangding
+9,31,52,F,bankcard,4/7/2023,78,16,15,Weekly,Charenton-le-Pont
+10,40,28,F,jcb,8/8/2023,11,30,96,Once,Mungui
+11,96,13,F,visa-electron,8/23/2023,23,77,21,Seldom,Bugarama
+12,30,68,M,switch,8/27/2023,58,66,75,Seldom,Roanoke
+13,7,72,M,bankcard,3/4/2023,20,54,18,Never,Dzwola
+14,83,31,F,jcb,2/13/2023,3,91,68,Weekly,Molo
+15,16,76,F,americanexpress,5/21/2023,96,93,13,Often,Shymkent
+16,62,11,M,visa-electron,10/30/2022,90,13,92,Yearly,Fengyang
+17,64,94,M,diners-club-enroute,6/26/2023,70,42,46,Daily,Oropesa
+18,76,32,F,maestro,7/20/2023,32,41,72,Never,Uwajima
+19,95,58,F,jcb,9/30/2023,74,39,84,Daily,Leganes
+20,15,4,M,jcb,1/21/2023,88,40,62,Daily,Salento
+21,92,100,F,instapayment,2/5/2023,24,52,68,Seldom,Yanagawa
+22,58,18,M,americanexpress,6/6/2023,6,40,42,Never,Obrera
+23,34,65,F,jcb,6/22/2023,46,34,35,Seldom,Pantijan No 2
+24,70,67,M,jcb,9/9/2023,28,26,44,Often,Sājir
+25,52,84,F,switch,3/10/2023,98,37,90,Yearly,Zhetang
+26,70,42,F,jcb,10/12/2022,36,37,13,Daily,Quilmaná
+27,42,28,M,diners-club-enroute,2/22/2023,49,95,76,Once,Corinto
+28,49,99,F,jcb,1/11/2023,95,10,66,Never,Rostov-na-Donu
+29,93,13,M,jcb,2/28/2023,68,32,24,Yearly,Daciyao
+30,51,41,M,jcb,4/2/2023,3,3,99,Once,Cibeusi
+31,67,82,M,jcb,6/14/2023,21,29,29,Monthly,Strzelce Krajeńskie
+32,81,26,M,switch,5/5/2023,81,82,97,Weekly,Mpigi
+33,4,78,M,jcb,12/7/2022,66,22,65,Yearly,Wuli
+34,64,27,M,diners-club-enroute,12/16/2022,92,30,37,Seldom,Mölndal
+35,80,30,M,jcb,7/28/2023,90,30,19,Often,Troitsk
+36,65,87,M,bankcard,12/9/2022,77,87,29,Weekly,Amorim
+37,89,48,M,jcb,11/26/2022,18,69,1,Monthly,Alderetes
+38,40,71,M,visa,9/24/2023,32,93,6,Often,Chemnitz
+39,20,3,M,diners-club-enroute,3/13/2023,100,78,95,Daily,Huangcun
+40,9,86,M,china-unionpay,5/14/2023,69,43,62,Seldom,Xinghua
+41,82,55,M,solo,7/9/2023,62,95,80,Often,Dornava
+42,50,40,F,jcb,3/17/2023,94,45,84,Daily,Amman
+43,55,17,M,visa-electron,1/6/2023,71,15,79,Yearly,Norrtälje
+44,78,7,M,maestro,2/16/2023,16,39,73,Seldom,Novorozhdestvenskaya
+45,2,92,M,china-unionpay,9/17/2023,6,61,42,Monthly,Lille
+46,87,89,M,visa-electron,7/17/2023,15,21,66,Daily,Bandarlampung
+47,86,17,F,jcb,12/26/2022,71,22,29,Often,Rimouski
+48,22,53,F,jcb,5/21/2023,77,100,68,Daily,Patsi
+49,50,40,F,bankcard,2/18/2023,40,32,91,Seldom,Valejas
+50,6,45,M,jcb,6/23/2023,51,96,49,Often,Psary
+51,98,22,F,diners-club-enroute,12/24/2022,79,95,46,Monthly,Täby
+52,19,11,F,mastercard,9/10/2023,89,34,98,Monthly,Hetang
+53,28,46,M,jcb,5/29/2023,58,28,8,Often,Ptení
+54,84,69,M,visa-electron,4/1/2023,40,78,58,Monthly,Ambulong
+55,86,15,F,jcb,1/22/2023,65,88,81,Yearly,Il’ya
+56,93,46,M,china-unionpay,5/16/2023,2,7,59,Daily,Baoxu
+57,89,86,M,mastercard,9/4/2023,8,64,20,Monthly,Ngala
+58,59,8,M,jcb,2/28/2023,22,21,48,Seldom,Marston
+59,74,14,F,bankcard,5/28/2023,33,42,19,Daily,Ngundaan
+60,25,21,M,jcb,5/1/2023,85,16,60,Often,Ballinteer
+61,18,57,M,visa-electron,12/8/2022,89,56,9,Seldom,Karangmulyo
+62,52,26,F,jcb,10/7/2022,23,14,40,Monthly,Capinzal
+63,19,38,F,maestro,2/7/2023,56,8,82,Seldom,Nanterre
+64,66,24,M,maestro,2/9/2023,25,24,88,Monthly,San Antonio
+65,64,55,M,jcb,12/5/2022,93,39,18,Monthly,Xinpu
+66,24,26,F,jcb,6/20/2023,83,98,64,Monthly,Thākurgaon
+67,25,41,F,jcb,3/19/2023,68,66,97,Monthly,Shijing
+68,7,77,M,switch,10/10/2022,5,84,28,Daily,Tangkeng
+69,20,19,F,jcb,7/23/2023,42,57,95,Weekly,Huangjin
+70,26,21,F,jcb,9/6/2023,48,51,75,Seldom,Qanliko’l
+71,87,88,M,jcb,10/19/2022,100,5,65,Never,Kasese
+72,31,30,F,jcb,9/14/2023,47,64,46,Daily,Lubao
+73,82,90,F,switch,10/25/2022,68,96,53,Daily,Mölndal
+74,15,98,F,americanexpress,10/11/2022,31,19,97,Often,Cunha
+75,5,23,F,mastercard,12/18/2022,10,41,21,Once,Montargis
+76,87,80,F,jcb,9/5/2023,52,11,43,Yearly,Marseille
+77,53,25,F,jcb,11/15/2022,77,71,76,Once,Izingolweni
+78,47,9,F,instapayment,2/17/2023,85,73,19,Monthly,Champigny-sur-Marne
+79,5,90,F,visa-electron,1/18/2023,82,2,46,Yearly,Emiliano Zapata
+80,62,38,F,jcb,12/7/2022,76,56,83,Weekly,Foso
+81,23,56,F,jcb,12/17/2022,36,16,46,Seldom,Lefkoniko
+82,22,58,F,jcb,5/3/2023,35,41,80,Monthly,Pariaman
+83,35,84,M,china-unionpay,6/11/2023,35,71,6,Once,Muzambinho
+84,2,78,M,jcb,9/9/2023,77,67,69,Once,Ruyigi
+85,77,37,M,americanexpress,12/25/2022,16,61,82,Once,Bangangté
+86,96,14,M,jcb,4/21/2023,28,87,17,Seldom,Beizhang
+87,88,15,M,jcb,5/12/2023,95,85,44,Monthly,Ketanggi
+88,17,24,M,switch,11/22/2022,82,85,100,Often,Obita
+89,40,67,F,diners-club-enroute,3/23/2023,78,85,98,Daily,Kumla
+90,71,82,M,jcb,7/25/2023,95,12,49,Monthly,Jayune
+91,90,15,F,jcb,12/13/2022,35,73,51,Weekly,Patong
+92,53,12,F,jcb,6/11/2023,90,45,90,Monthly,Balitoc
+93,37,16,M,laser,1/29/2023,36,82,82,Seldom,Souran
+94,55,91,F,jcb,3/2/2023,29,93,33,Weekly,Glagahan
+95,31,56,F,jcb,7/9/2023,14,98,54,Daily,Peimei
+96,50,86,F,jcb,8/6/2023,3,56,24,Monthly,Shah Alam
+97,53,39,F,jcb,8/11/2023,1,16,86,Often,Mandor
+98,37,14,F,bankcard,12/20/2022,45,78,81,Weekly,Shangshaleng
+99,89,5,M,jcb,9/4/2023,90,22,58,Daily,Haokou
+100,77,53,M,mastercard,11/9/2022,66,65,79,Often,Braço do Norte
+101,24,66,M,visa-electron,3/8/2023,79,18,50,Daily,Zarechnyy
+102,25,12,F,visa,3/24/2023,43,44,25,Monthly,Vitoria-Gasteiz
+103,77,5,M,switch,10/3/2023,5,49,31,Seldom,Paris 19
+104,27,52,F,jcb,6/27/2023,66,65,48,Weekly,Qushi’an
+105,38,43,M,jcb,8/10/2023,84,67,81,Daily,Şurmān
+106,28,73,M,mastercard,3/18/2023,50,11,60,Yearly,Götene
+107,6,10,M,visa-electron,10/23/2022,63,61,46,Weekly,Fujinomiya
+108,66,100,M,jcb,9/7/2023,5,91,78,Daily,Villa Santa Rita
+109,70,2,M,switch,7/21/2023,26,68,16,Yearly,Xomong
+110,59,53,M,jcb,9/11/2023,12,96,27,Yearly,Pirok
+111,48,53,F,laser,8/6/2023,94,1,24,Daily,Sendangrejo
+112,96,21,M,bankcard,4/26/2023,33,18,14,Weekly,Mandaon
+113,2,46,F,americanexpress,11/9/2022,64,63,1,Weekly,Chateaubelair
+114,82,57,F,americanexpress,8/24/2023,19,84,92,Weekly,General San Martín
+115,48,22,M,diners-club-enroute,10/12/2022,45,27,6,Weekly,Oklahoma City
+116,53,86,M,china-unionpay,4/15/2023,59,28,9,Weekly,Rafael Perazza
+117,28,53,M,diners-club-carte-blanche,6/30/2023,28,13,51,Never,Lanús
+118,40,3,M,visa-electron,10/9/2022,27,89,3,Often,Amancio
+119,97,71,M,americanexpress,6/14/2023,53,24,24,Yearly,Sumurnanjung
+120,76,7,F,jcb,3/25/2023,50,72,58,Once,Ozërsk
+121,42,90,M,jcb,1/16/2023,60,54,16,Monthly,Mandalgovi
+122,81,52,M,jcb,9/21/2023,1,9,88,Daily,Shushicë
+123,27,86,F,jcb,12/14/2022,39,31,72,Weekly,Santa Teresa
+124,45,30,F,mastercard,3/18/2023,31,97,46,Monthly,Moyale
+125,80,50,F,diners-club-international,3/8/2023,46,75,20,Never,Jiujie
+126,29,67,M,jcb,9/20/2023,83,26,77,Often,Santiago de los Caballeros
+127,21,89,M,jcb,2/27/2023,60,7,70,Never,Świnna
+128,7,48,F,laser,7/30/2023,72,69,24,Often,Alaminos
+129,35,27,F,jcb,12/1/2022,16,93,6,Yearly,Serhetabat
+130,35,22,M,maestro,9/12/2023,37,61,85,Seldom,Marija Bistrica
+131,77,89,F,jcb,9/15/2023,86,16,41,Monthly,Quillota
+132,91,37,M,jcb,9/29/2023,73,69,21,Never,Lidingö
+133,64,10,F,instapayment,7/9/2023,44,99,89,Monthly,Cipari
+134,15,14,M,diners-club-enroute,1/22/2023,27,26,92,Often,Vetrino
+135,7,13,M,jcb,2/11/2023,11,3,23,Weekly,Pantalowice
+136,23,55,M,instapayment,2/22/2023,25,63,9,Seldom,Laholm
+137,70,20,F,americanexpress,3/18/2023,98,8,64,Daily,Salawu
+138,5,22,F,mastercard,2/25/2023,98,15,82,Weekly,Shawnee Mission
+139,45,10,M,jcb,6/16/2023,73,4,6,Daily,Huddinge
+140,67,7,F,jcb,7/18/2023,11,22,9,Never,Nemuro
+141,67,3,M,maestro,6/17/2023,61,50,76,Once,Gandzak
+142,38,26,M,jcb,2/5/2023,51,90,49,Weekly,Shimoda
+143,15,81,M,mastercard,4/24/2023,94,46,44,Never,Paipu
+144,84,6,M,jcb,8/17/2023,57,25,5,Often,Kedungtaman
+145,57,18,F,china-unionpay,12/14/2022,52,71,11,Monthly,Dongjiahe
+146,70,88,M,americanexpress,5/16/2023,52,11,95,Daily,Taraz
+147,56,33,F,jcb,3/16/2023,73,29,47,Yearly,Alor Star
+148,47,6,F,jcb,8/18/2023,14,4,100,Yearly,Vavoua
+149,96,62,F,solo,8/5/2023,93,28,77,Once,Radviliskis
+150,4,37,F,china-unionpay,6/23/2023,80,20,62,Seldom,Mizhuang
+151,42,24,F,jcb,10/31/2022,89,84,70,Monthly,Chengnan
+152,3,42,M,jcb,1/30/2023,22,28,19,Monthly,Gasa
+153,85,92,M,jcb,5/3/2023,40,27,76,Seldom,Xiatang
+154,29,24,M,diners-club-international,2/28/2023,61,100,23,Once,Malinaw
+155,35,77,M,maestro,1/26/2023,46,46,19,Yearly,Stenungsund
+156,74,74,M,jcb,6/5/2023,49,67,85,Often,Santiago
+157,87,59,M,maestro,9/12/2023,23,90,26,Seldom,Kedungharjo
+158,95,66,M,maestro,8/17/2023,16,41,14,Monthly,Tawa
+159,31,42,F,jcb,7/5/2023,49,52,62,Often,Chynadiyovo
+160,46,8,F,diners-club-enroute,9/14/2023,3,3,81,Monthly,Medenine
+161,25,71,M,jcb,11/11/2022,80,51,76,Often,Vrdy
+162,70,62,M,china-unionpay,11/12/2022,10,95,31,Never,Pingshui
+163,55,53,F,diners-club-carte-blanche,11/29/2022,83,15,100,Seldom,Évreux
+164,13,8,F,jcb,2/19/2023,84,25,70,Weekly,Fryčovice
+165,86,58,F,jcb,1/20/2023,53,89,80,Weekly,Chur
+166,82,6,M,americanexpress,6/24/2023,37,81,67,Monthly,Puerto La Cruz
+167,50,96,F,jcb,2/2/2023,27,70,93,Often,Pandangan Kulon
+168,91,22,F,americanexpress,5/19/2023,20,37,17,Never,Springfield
+169,68,5,M,jcb,1/31/2023,14,95,78,Never,Aix-en-Provence
+170,60,85,M,diners-club-carte-blanche,5/1/2023,91,75,32,Often,Pingli
+171,97,16,M,instapayment,1/23/2023,69,71,35,Never,Ono
+172,88,49,M,jcb,5/3/2023,67,52,32,Never,Colca
+173,93,38,M,visa-electron,7/13/2023,61,71,13,Weekly,Al Qaţn
+174,26,30,M,bankcard,4/24/2023,7,95,21,Daily,Salto
+175,52,56,M,maestro,5/8/2023,43,30,87,Once,Sosnovka
+176,76,84,M,jcb,3/25/2023,90,39,45,Never,Jiangtun
+177,40,77,M,americanexpress,10/14/2022,3,63,33,Monthly,Talugtug
+178,40,84,F,jcb,2/8/2023,32,88,15,Seldom,Tsushima
+179,29,11,F,mastercard,2/10/2023,44,35,27,Weekly,Hartford
+180,75,15,M,jcb,8/14/2023,48,16,58,Weekly,Porteirinha
+181,56,4,M,jcb,3/31/2023,41,63,88,Weekly,Nashville
+182,56,68,F,jcb,7/12/2023,33,6,78,Often,Nancheng
+183,78,98,F,visa-electron,5/30/2023,65,94,12,Monthly,Aldeia
+184,65,32,F,jcb,11/16/2022,79,24,90,Yearly,Lieksa
+185,81,69,M,jcb,12/15/2022,30,75,98,Often,Fort Macleod
+186,100,58,F,jcb,3/2/2023,46,54,26,Monthly,Pizhanka
+187,74,95,F,jcb,3/22/2023,53,87,48,Yearly,San Esteban
+188,6,82,F,china-unionpay,12/25/2022,21,54,35,Never,Bronkhorstspruit
+189,9,67,M,jcb,3/30/2023,20,85,95,Never,Stockholm
+190,86,90,M,visa-electron,1/5/2023,88,36,41,Once,Sanquan
+191,56,36,F,jcb,6/10/2023,46,20,10,Seldom,Catalina
+192,41,44,F,instapayment,9/15/2023,43,67,61,Seldom,Kuiyong
+193,86,51,F,diners-club-carte-blanche,7/9/2023,98,15,32,Once,Culianin
+194,91,76,M,diners-club-enroute,12/17/2022,14,41,86,Weekly,Santa Luċija
+195,12,59,M,visa,3/1/2023,56,6,17,Once,Takai
+196,12,83,M,jcb,8/11/2023,94,69,72,Yearly,Santo Antônio de Posse
+197,96,72,M,switch,9/25/2023,56,90,10,Daily,Baratan
+198,65,99,M,jcb,12/16/2022,3,75,48,Daily,Lintaca
+199,58,81,M,mastercard,12/22/2022,50,53,53,Monthly,Sagbayan
+200,21,98,F,jcb,6/3/2023,35,19,76,Seldom,Maïné Soroa
+201,61,96,F,visa,5/27/2023,33,55,21,Seldom,Belize City
+202,90,76,M,jcb,7/2/2023,12,82,34,Seldom,Maunatlala
+203,44,76,M,switch,5/16/2023,23,44,22,Seldom,Elato
+204,52,40,M,maestro,1/30/2023,77,7,56,Often,Mergayu
+205,30,70,M,diners-club-carte-blanche,7/5/2023,37,59,29,Often,Shimen
+206,78,70,M,jcb,10/11/2022,49,87,87,Weekly,Varāmīn
+207,12,15,M,mastercard,3/14/2023,51,27,83,Once,Bulod
+208,18,5,F,bankcard,10/7/2022,14,8,22,Weekly,Kalān Deh
+209,33,96,M,switch,6/17/2023,29,90,4,Often,Saint-Bruno
+210,65,12,F,visa,8/7/2023,70,84,26,Never,Psary
+211,13,8,M,jcb,3/23/2023,24,68,27,Often,Leninogorsk
+212,8,48,F,visa,12/25/2022,4,4,8,Once,Melchor Ocampo
+213,46,41,M,jcb,8/7/2023,45,81,99,Daily,Hang Dong
+214,42,35,M,jcb,6/13/2023,15,70,25,Daily,Antonio Toledo Corro
+215,39,93,M,laser,6/9/2023,12,40,28,Once,Šenov
+216,31,45,F,diners-club-enroute,7/16/2023,57,63,43,Seldom,Citeureup
+217,56,63,F,maestro,9/1/2023,33,64,93,Daily,El Galpón
+218,43,14,F,bankcard,12/12/2022,87,4,11,Weekly,Vales
+219,70,47,M,jcb,12/20/2022,90,6,10,Weekly,San Marcos
+220,25,75,F,maestro,12/9/2022,50,28,2,Weekly,Ševica
+221,41,91,M,jcb,2/1/2023,17,8,91,Yearly,Yutan
+222,86,34,F,jcb,7/22/2023,51,18,28,Once,Xinfengjie
+223,19,94,F,diners-club-enroute,5/11/2023,29,93,97,Often,Dajasongai
+224,24,62,M,jcb,7/10/2023,34,68,67,Monthly,Lazdijai
+225,20,32,F,jcb,8/12/2023,41,92,28,Often,Tlumach
+226,72,38,M,jcb,9/7/2023,46,76,2,Seldom,‘Uzeir
+227,14,11,F,visa-electron,9/13/2023,39,69,69,Often,Gromnik
+228,71,52,M,jcb,12/20/2022,22,56,76,Daily,Ramanavichy
+229,14,58,M,jcb,12/15/2022,22,93,93,Monthly,Opochka
+230,64,39,M,diners-club-enroute,11/10/2022,61,58,68,Seldom,Grojec
+231,65,78,M,china-unionpay,8/1/2023,25,3,40,Seldom,Wenshui
+232,67,39,F,jcb,10/9/2022,9,64,21,Monthly,Extrema
+233,10,34,M,jcb,6/17/2023,58,51,100,Once,La Vega
+234,50,22,M,jcb,2/9/2023,14,63,58,Often,Prachuap Khiri Khan
+235,24,31,M,diners-club-us-ca,11/15/2022,17,18,4,Yearly,Guangming
+236,47,94,M,jcb,10/26/2022,26,24,36,Weekly,Bihać
+237,6,23,M,jcb,7/29/2023,16,24,88,Monthly,Junaynat Raslān
+238,98,32,F,jcb,5/23/2023,6,76,37,Once,Okulovka
+239,83,1,M,jcb,10/17/2022,28,85,37,Weekly,Banjar Taro Kelod
+240,72,50,M,jcb,3/6/2023,5,42,89,Monthly,Hwangju-ŭp
+241,44,96,M,jcb,7/22/2023,52,36,38,Yearly,Frakulla e Madhe
+242,92,62,F,instapayment,7/29/2023,22,23,47,Monthly,Estevan
+243,64,32,M,jcb,8/1/2023,19,7,75,Often,Siteía
+244,84,33,F,mastercard,3/25/2023,78,30,78,Yearly,Semikarakorsk
+245,21,54,M,diners-club-carte-blanche,8/22/2023,47,31,25,Yearly,Montreuil
+246,81,77,M,jcb,8/21/2023,87,41,100,Often,Namangan Shahri
+247,60,9,M,jcb,7/14/2023,83,14,25,Daily,San José de Jáchal
+248,59,31,F,jcb,10/13/2022,31,55,42,Weekly,Huarong
+249,51,9,M,jcb,10/31/2022,7,29,43,Never,Terara
+250,18,98,F,jcb,2/21/2023,80,16,36,Often,Mulhouse
+251,99,38,F,china-unionpay,5/14/2023,86,93,51,Never,Shiyuetian
+252,73,15,F,visa,11/14/2022,31,94,81,Monthly,Kandete
+253,46,68,M,diners-club-enroute,6/20/2023,49,41,77,Daily,Talospatang
+254,37,69,F,diners-club-carte-blanche,11/24/2022,32,83,58,Weekly,Lyon
+255,75,10,F,mastercard,8/2/2023,62,65,63,Monthly,Kinzan
+256,37,60,M,visa-electron,1/4/2023,56,98,53,Weekly,Herby
+257,49,19,F,jcb,1/30/2023,57,61,20,Weekly,Honglan
+258,4,78,F,jcb,12/10/2022,68,8,1,Weekly,Lembang
+259,54,60,M,china-unionpay,2/11/2023,26,1,88,Monthly,Loreto
+260,33,58,F,jcb,5/23/2023,7,68,55,Weekly,Madrid
+261,44,85,F,jcb,7/22/2023,42,56,90,Never,Kamenka
+262,74,85,M,switch,5/9/2023,26,70,95,Seldom,Besko
+263,82,89,M,jcb,12/16/2022,55,93,78,Monthly,Deba Habe
+264,47,97,M,bankcard,3/18/2023,30,82,17,Never,Kasimov
+265,81,69,M,laser,7/17/2023,14,89,63,Weekly,Mrągowo
+266,23,28,F,jcb,2/20/2023,63,77,16,Seldom,Al Farwānīyah
+267,87,8,M,americanexpress,1/7/2023,84,51,28,Never,Grojec
+268,82,57,F,switch,2/15/2023,100,92,36,Often,Petrov
+269,81,31,M,diners-club-enroute,10/18/2022,54,43,87,Monthly,Onega
+270,42,93,F,maestro,12/28/2022,74,9,91,Yearly,Brochów
+271,78,91,F,jcb,6/25/2023,6,97,41,Never,Enrekang
+272,56,63,F,jcb,5/23/2023,33,79,3,Daily,Golovinskiy
+273,99,4,F,diners-club-enroute,8/7/2023,12,62,40,Daily,Inriville
+274,19,72,F,bankcard,8/5/2023,86,8,41,Never,Triteh
+275,82,30,M,jcb,4/20/2023,29,1,90,Weekly,Pingshan
+276,61,22,F,maestro,6/17/2023,19,5,15,Monthly,Andkhōy
+277,88,13,M,instapayment,3/18/2023,100,82,3,Often,Demir Hisar
+278,16,8,F,maestro,8/13/2023,73,16,9,Weekly,Longba
+279,89,54,M,americanexpress,1/19/2023,22,92,49,Weekly,Hema
+280,59,64,M,jcb,9/5/2023,82,100,58,Weekly,Żabbar
+281,57,41,F,jcb,1/27/2023,13,79,70,Seldom,Galaz
+282,92,22,M,jcb,3/7/2023,55,45,70,Daily,Manhiça
+283,54,73,M,jcb,9/29/2023,94,14,72,Yearly,Lilio
+284,54,28,F,maestro,6/15/2023,20,46,18,Daily,Lillooet
+285,10,41,F,americanexpress,8/10/2023,90,87,21,Never,Gandu
+286,93,54,M,jcb,7/7/2023,95,36,49,Seldom,Novosel’ye
+287,74,14,F,switch,2/10/2023,63,71,91,Yearly,Linxi
+288,77,49,M,jcb,7/27/2023,72,35,79,Yearly,Luobuqiongzi
+289,74,88,M,mastercard,5/3/2023,85,21,29,Weekly,Kota Kinabalu
+290,48,76,M,americanexpress,10/25/2022,79,89,90,Monthly,Takamatsu-shi
+291,74,79,F,diners-club-international,1/20/2023,81,55,26,Yearly,Tyringe
+292,96,15,M,china-unionpay,12/26/2022,29,79,47,Often,Xiashe
+293,98,18,M,maestro,6/18/2023,19,98,25,Never,Gaya
+294,93,56,M,instapayment,3/10/2023,51,73,12,Seldom,Tanrake Village
+295,25,99,M,diners-club-us-ca,3/28/2023,50,23,94,Never,Candelária
+296,82,46,M,switch,5/31/2023,8,67,65,Daily,Kasturi
+297,2,40,F,mastercard,6/1/2023,25,76,24,Daily,Arthur’s Town
+298,91,61,F,maestro,5/16/2023,32,22,21,Once,Toulouse
+299,6,64,F,diners-club-enroute,8/28/2023,67,94,38,Seldom,Rinconada
+300,23,99,F,bankcard,12/1/2022,91,74,77,Yearly,Phitsanulok
+301,56,84,M,jcb,10/24/2022,76,78,16,Monthly,San Antonio Suchitepéquez
+302,25,18,F,diners-club-enroute,9/23/2023,95,85,62,Monthly,Gizałki
+303,9,93,F,solo,12/5/2022,69,53,51,Daily,Tayāsīr
+304,79,77,F,jcb,7/31/2023,6,66,80,Monthly,Pomacocha
+305,29,37,F,jcb,12/9/2022,49,73,26,Never,Srebrenica
+306,34,9,M,laser,1/4/2023,53,91,52,Never,Tunguang
+307,81,100,M,jcb,4/18/2023,27,31,48,Never,Photharam
+308,21,27,M,jcb,1/10/2023,53,47,53,Often,Trnava
+309,25,31,M,jcb,2/21/2023,65,10,26,Seldom,Romilly-sur-Seine
+310,45,68,M,jcb,7/10/2023,58,22,46,Once,Fuxi
+311,11,15,M,jcb,3/23/2023,2,37,64,Once,Toledo
+312,97,75,F,maestro,1/9/2023,79,65,81,Daily,Touguinha
+313,15,51,F,jcb,12/31/2022,43,10,3,Seldom,Joaquín V. González
+314,76,16,M,maestro,4/3/2023,48,22,53,Seldom,Paris 09
+315,70,53,M,jcb,9/7/2023,69,61,18,Often,Yezhu
+316,58,94,M,diners-club-us-ca,9/24/2023,11,21,33,Monthly,Kuvandyk
+317,5,50,M,americanexpress,5/30/2023,81,20,24,Never,Wuma
+318,36,3,F,jcb,10/25/2022,88,94,6,Monthly,Herong
+319,8,24,F,jcb,5/14/2023,41,66,25,Weekly,Ängelholm
+320,25,16,F,jcb,12/30/2022,54,22,77,Monthly,Clondalkin
+321,36,20,F,jcb,7/2/2023,9,83,41,Never,Woro
+322,51,51,M,americanexpress,10/1/2023,27,32,82,Daily,Olbramovice
+323,73,9,F,jcb,6/8/2023,28,94,55,Weekly,Dresden
+324,12,26,F,bankcard,7/11/2023,53,97,68,Monthly,Busia
+325,67,91,M,solo,9/4/2023,20,42,24,Never,Couço
+326,17,42,M,diners-club-us-ca,4/11/2023,7,2,45,Once,Sindangkerta
+327,51,72,M,jcb,1/29/2023,87,36,2,Weekly,Cluses
+328,94,17,F,jcb,2/11/2023,12,98,33,Yearly,Maswa
+329,4,71,M,jcb,12/20/2022,36,58,77,Once,Zlataritsa
+330,97,39,M,jcb,6/10/2023,48,79,2,Yearly,Åkersberga
+331,29,93,F,jcb,2/19/2023,55,65,83,Daily,Di Linh
+332,89,3,M,jcb,9/28/2023,36,81,42,Daily,Żywiec
+333,37,8,F,jcb,5/29/2023,40,8,9,Daily,Den Haag
+334,89,92,F,jcb,4/14/2023,88,98,15,Monthly,Lucaya
+335,79,29,F,visa,6/5/2023,22,40,7,Never,Sida
+336,76,40,F,jcb,2/12/2023,99,24,58,Monthly,Lilin Satu
+337,2,63,M,jcb,5/12/2023,48,83,62,Often,Swift Current
+338,61,71,M,mastercard,10/22/2022,94,72,52,Never,Krupanj
+339,5,19,M,jcb,7/26/2023,37,29,48,Yearly,Letpandan
+340,53,98,F,jcb,4/13/2023,73,87,25,Weekly,Nangkasari
+341,59,2,M,diners-club-enroute,5/6/2023,9,26,54,Weekly,Tegalgede
+342,52,38,M,maestro,2/21/2023,52,40,96,Seldom,Hushan
+343,1,89,M,americanexpress,2/3/2023,63,10,45,Once,Cileles
+344,77,89,F,jcb,11/11/2022,80,53,32,Weekly,Longshi
+345,52,51,F,jcb,1/12/2023,94,38,75,Never,Mochumí
+346,10,40,F,jcb,11/23/2022,99,57,3,Seldom,Dieppe
+347,77,72,F,switch,6/28/2023,88,95,21,Monthly,Verin Dvin
+348,7,96,M,switch,8/4/2023,91,75,11,Daily,Quxi
+349,85,95,M,americanexpress,10/25/2022,90,11,73,Monthly,Ilare
+350,93,44,M,jcb,2/27/2023,96,6,89,Monthly,Pirok
+351,18,59,M,jcb,10/28/2022,51,40,37,Monthly,Sil-li
+352,5,76,M,visa-electron,6/16/2023,13,92,32,Once,Cinco Saltos
+353,76,87,M,jcb,5/24/2023,72,39,42,Monthly,Igreja
+354,42,78,M,mastercard,3/14/2023,86,100,47,Daily,Jiangjia
+355,11,30,F,visa,1/3/2023,8,65,16,Never,Besko
+356,72,24,M,maestro,3/18/2023,26,35,9,Once,Žatec
+357,34,9,F,mastercard,3/5/2023,73,21,39,Once,Shangyanzhuang
+358,24,55,F,mastercard,5/31/2023,100,95,72,Never,Sila Lat
+359,46,46,F,switch,1/3/2023,97,33,99,Seldom,Dujuuma
+360,100,49,F,switch,10/28/2022,42,64,4,Weekly,San Ramón
+361,10,45,M,jcb,10/3/2023,62,36,86,Never,Abraham’s Bay
+362,82,94,M,jcb,3/19/2023,60,97,75,Never,Zhangcun
+363,31,17,M,mastercard,7/21/2023,47,60,9,Seldom,Vincennes
+364,21,80,F,jcb,5/26/2023,44,70,51,Monthly,Huanggu
+365,36,21,F,visa-electron,10/19/2022,3,75,93,Daily,Rimouski
+366,25,81,M,americanexpress,12/28/2022,17,53,8,Weekly,Jaguarão
+367,83,27,F,switch,8/29/2023,95,26,56,Monthly,Yelizavetino
+368,37,2,F,jcb,2/27/2023,38,44,82,Weekly,Dąbie
+369,70,99,F,americanexpress,10/3/2023,78,11,32,Monthly,Diego de Almagro
+370,13,66,F,maestro,12/7/2022,40,74,1,Weekly,Kohāt
+371,94,27,M,jcb,8/19/2023,73,10,89,Yearly,San Antonio
+372,52,45,M,maestro,6/5/2023,25,51,98,Seldom,Lieksa
+373,92,21,F,jcb,6/20/2023,88,32,96,Often,Makato
+374,52,12,F,china-unionpay,7/26/2023,77,74,30,Weekly,Luopioinen
+375,36,98,M,bankcard,7/24/2023,7,72,15,Once,Guisguis
+376,22,7,M,jcb,9/11/2023,20,92,33,Seldom,Baunu-Timbangan
+377,29,7,M,jcb,3/22/2023,56,97,18,Often,Mazkeret Batya
+378,83,42,M,jcb,9/20/2023,81,50,70,Yearly,Kassándreia
+379,41,87,F,visa-electron,5/28/2023,25,95,62,Once,Hualongyan
+380,65,53,M,jcb,3/6/2023,11,46,88,Daily,Las Palomas
+381,87,8,F,switch,2/13/2023,6,16,16,Daily,Sladna
+382,57,59,F,bankcard,5/14/2023,91,75,99,Daily,Svoge
+383,47,76,F,jcb,8/24/2023,98,81,73,Once,Znamenskoye
+384,21,58,F,switch,6/30/2023,88,8,39,Seldom,Atlanta
+385,87,79,M,jcb,8/28/2023,30,20,43,Daily,Uglegorsk
+386,5,43,F,maestro,5/5/2023,98,85,15,Often,London
+387,61,27,M,laser,9/21/2023,31,49,36,Monthly,Penggakrajeng
+388,41,63,M,jcb,2/18/2023,30,96,6,Yearly,Bosilovo
+389,30,97,F,americanexpress,4/28/2023,28,81,32,Daily,Oxelösund
+390,16,85,M,switch,9/9/2023,93,36,18,Never,Šuto Orizare
+391,77,13,M,jcb,11/7/2022,20,35,54,Monthly,Sansanné-Mango
+392,63,37,F,jcb,3/25/2023,23,4,86,Monthly,Topolovgrad
+393,17,20,M,mastercard,12/8/2022,93,29,3,Monthly,Ōmura
+394,75,19,M,laser,9/18/2023,70,10,52,Once,Bao’an
+395,69,8,F,switch,3/8/2023,7,66,73,Once,Wonodadi
+396,98,6,F,jcb,4/22/2023,77,39,12,Seldom,San Julian
+397,67,34,M,jcb,11/17/2022,82,33,70,Daily,Göteborg
+398,89,30,M,jcb,3/29/2023,67,66,51,Monthly,Jieheshi
+399,47,90,M,jcb,11/26/2022,96,22,43,Weekly,Gusev
+400,32,72,F,mastercard,10/27/2022,27,69,77,Weekly,Sinarharapan
+401,23,61,F,visa-electron,4/14/2023,63,44,49,Daily,Shangyanzhuang
+402,63,9,M,mastercard,4/9/2023,23,48,22,Never,Puerto Ayacucho
+403,75,2,F,mastercard,11/9/2022,45,24,43,Seldom,Jiashi
+404,46,24,F,mastercard,12/24/2022,69,62,43,Often,Kingsey Falls
+405,10,96,F,maestro,12/1/2022,2,16,11,Monthly,Cibaregbeg
+406,95,16,M,americanexpress,8/5/2023,34,66,82,Once,Spirit River
+407,93,94,M,mastercard,12/8/2022,100,89,4,Often,Nijmegen
+408,20,92,M,mastercard,3/18/2023,93,94,4,Often,Dogbo
+409,9,23,M,jcb,6/21/2023,27,14,68,Seldom,Voskop
+410,46,4,F,visa-electron,3/8/2023,30,66,15,Daily,Nokaneng
+411,38,71,M,diners-club-international,10/28/2022,97,44,30,Daily,Goléré
+412,94,76,F,jcb,1/6/2023,18,57,35,Yearly,Gurupi
+413,66,20,F,visa-electron,10/13/2022,58,19,81,Monthly,Agnibilékrou
+414,59,41,F,jcb,9/16/2023,70,20,80,Often,Tongle
+415,96,47,M,jcb,3/17/2023,25,81,78,Yearly,Pitangui
+416,32,73,F,visa-electron,3/15/2023,15,57,62,Weekly,Rendui
+417,40,70,F,jcb,10/16/2022,31,92,70,Monthly,Mazra‘at Bayt Jinn
+418,81,1,M,switch,9/7/2023,33,41,18,Weekly,Dzhetygara
+419,72,40,F,mastercard,8/2/2023,25,82,34,Never,Firmat
+420,44,58,M,laser,10/4/2022,84,50,85,Monthly,Vasilikón
+421,84,53,M,diners-club-us-ca,1/4/2023,27,78,2,Never,Sukolilo
+422,16,15,M,bankcard,8/3/2023,4,30,96,Seldom,Pozo Hondo
+423,11,33,F,jcb,12/20/2022,73,48,27,Never,Rączna
+424,10,21,M,mastercard,11/26/2022,31,79,61,Daily,Motupe
+425,1,80,F,visa-electron,11/12/2022,4,37,24,Once,Hacıhüseynli
+426,21,8,M,bankcard,9/29/2023,47,89,40,Often,San Felipe
+427,45,1,F,mastercard,2/11/2023,45,36,30,Monthly,Yafran
+428,70,36,M,jcb,12/22/2022,100,87,98,Monthly,Jambean
+429,34,29,F,jcb,9/27/2023,98,82,67,Often,Huabeitun
+430,26,20,F,jcb,3/10/2023,35,61,35,Weekly,Mīrpur Māthelo
+431,17,12,M,mastercard,9/19/2023,36,6,56,Monthly,Potrerillos
+432,52,55,M,laser,6/21/2023,17,94,81,Often,Šilheřovice
+433,51,21,M,jcb,11/2/2022,11,2,61,Daily,Tamanan
+434,27,95,F,jcb,12/2/2022,35,85,25,Once,Darkovice
+435,84,25,F,jcb,3/15/2023,99,21,64,Once,Guajará Mirim
+436,99,3,M,americanexpress,5/9/2023,33,85,48,Yearly,Ouro Sogui
+437,29,51,M,diners-club-enroute,10/6/2022,47,88,48,Daily,Vetluzhskiy
+438,4,14,F,jcb,11/27/2022,85,59,17,Monthly,Toba
+439,4,56,M,diners-club-carte-blanche,4/4/2023,78,24,95,Daily,Decatur
+440,57,66,F,diners-club-us-ca,12/14/2022,46,52,1,Never,Ban Houakhoua
+441,98,50,F,diners-club-carte-blanche,6/10/2023,88,2,74,Never,Kota Kinabalu
+442,26,44,M,diners-club-enroute,9/3/2023,49,36,8,Weekly,Dacudao
+443,68,27,F,switch,12/20/2022,97,46,48,Daily,Al Qarmadah
+444,56,79,M,jcb,9/17/2023,47,26,55,Once,Rennes
+445,13,90,M,diners-club-carte-blanche,8/14/2023,36,48,11,Once,Cabo de Vila
+446,28,84,F,jcb,6/11/2023,61,30,73,Daily,Korenëvo
+447,80,5,F,mastercard,5/3/2023,20,63,97,Never,Hässleholm
+448,92,91,M,jcb,3/22/2023,17,62,71,Yearly,Arroio Grande
+449,69,64,F,switch,3/12/2023,52,39,20,Seldom,Pathum Rat
+450,100,8,F,maestro,3/13/2023,42,9,98,Daily,Burtunay
+451,84,45,F,jcb,3/20/2023,52,30,91,Never,Lianfa
+452,10,82,F,diners-club-enroute,10/12/2022,83,68,67,Weekly,Mawlamyine
+453,74,42,F,mastercard,6/12/2023,91,16,43,Daily,Dhahi
+454,8,37,F,jcb,11/8/2022,60,85,63,Often,Ilmajoki
+455,56,87,F,visa-electron,4/9/2023,58,100,97,Seldom,Berëzovka
+456,17,81,F,visa,1/24/2023,51,29,64,Once,Borbon
+457,62,90,M,jcb,6/9/2023,77,58,93,Daily,Stockholm
+458,90,62,F,china-unionpay,3/12/2023,42,65,45,Yearly,Řehlovice
+459,88,24,M,maestro,5/16/2023,80,99,25,Once,Gueset
+460,23,67,M,maestro,11/27/2022,58,31,100,Weekly,Kohila
+461,67,99,F,mastercard,8/10/2023,86,100,26,Never,Karlivka
+462,10,61,F,jcb,11/5/2022,49,79,21,Weekly,Enhtal
+463,62,7,F,diners-club-carte-blanche,2/26/2023,95,73,28,Never,Kimito
+464,43,46,F,diners-club-carte-blanche,11/9/2022,39,49,67,Yearly,Cikaras
+465,50,73,F,jcb,8/16/2023,99,22,6,Never,Rönninge
+466,79,46,F,visa-electron,3/20/2023,66,25,21,Never,Dubna
+467,57,88,M,visa-electron,5/29/2023,11,63,45,Often,Sīlat al Ḩārithīyah
+468,22,92,M,maestro,1/18/2023,18,3,65,Yearly,Xinshan
+469,92,75,M,jcb,3/16/2023,91,73,37,Seldom,Manaoag
+470,8,1,M,jcb,8/7/2023,72,72,91,Once,Conception Bay South
+471,97,83,M,visa-electron,11/22/2022,60,9,99,Daily,Poitiers
+472,57,56,F,maestro,1/12/2023,96,99,69,Never,Bengtsfors
+473,30,34,M,mastercard,11/11/2022,39,11,38,Monthly,Cambas
+474,56,73,M,jcb,9/6/2023,31,35,96,Seldom,Januszkowice
+475,56,66,F,jcb,2/25/2023,4,100,94,Seldom,Shuhong
+476,26,39,F,jcb,5/6/2023,46,84,34,Seldom,Huaihua
+477,96,40,F,bankcard,4/25/2023,33,88,79,Seldom,Masallātah
+478,72,87,M,instapayment,10/19/2022,1,62,83,Never,Vila Nova
+479,77,87,M,jcb,3/13/2023,1,66,70,Monthly,Kusak
+480,39,57,M,visa-electron,10/20/2022,41,9,70,Monthly,Valleymount
+481,96,60,M,jcb,8/24/2023,24,87,99,Monthly,Francisco Sarabia
+482,13,31,M,china-unionpay,6/18/2023,62,28,80,Seldom,Zaqatala
+483,76,38,F,jcb,11/14/2022,46,47,40,Never,Babakankalong
+484,95,2,M,jcb,10/29/2022,27,23,85,Weekly,Arai
+485,45,67,M,jcb,9/15/2023,82,5,85,Once,Gävle
+486,6,52,F,maestro,2/14/2023,97,37,68,Weekly,Karangsonojabon
+487,82,54,M,jcb,6/2/2023,77,3,19,Seldom,Mompós
+488,87,9,F,instapayment,3/20/2023,25,95,16,Monthly,Listowel
+489,49,62,F,visa,4/2/2023,16,15,33,Weekly,Jönköping
+490,88,89,M,mastercard,10/26/2022,70,80,17,Never,Zaokskiy
+491,97,81,F,diners-club-us-ca,9/30/2023,46,94,43,Yearly,Pandi
+492,64,63,M,diners-club-carte-blanche,5/13/2023,49,56,93,Once,Lijiaxiang
+493,29,75,M,instapayment,7/4/2023,60,46,40,Weekly,Drochia
+494,66,9,F,jcb,11/2/2022,32,57,39,Weekly,Alue Glumpang
+495,41,34,M,jcb,3/19/2023,71,30,9,Yearly,Pehčevo
+496,23,7,M,jcb,11/3/2022,38,73,79,Yearly,Edinburgh
+497,52,4,M,jcb,2/3/2023,56,73,99,Once,La Mesa
+498,78,26,F,diners-club-carte-blanche,3/30/2023,82,19,85,Daily,Batulayang
+499,48,100,F,jcb,9/15/2023,25,22,36,Once,Dzüünbulag
+500,5,56,M,diners-club-carte-blanche,10/24/2022,78,87,93,Never,Nakovo
+501,84,57,F,bankcard,8/27/2023,56,65,3,Yearly,Si Wilai
+502,61,76,F,diners-club-us-ca,3/14/2023,84,96,44,Once,Al Qūşīyah
+503,11,34,M,maestro,7/21/2023,87,97,59,Seldom,Ma‘lūlā
+504,52,78,F,china-unionpay,6/4/2023,36,64,87,Daily,Lalapanzi
+505,94,76,F,jcb,12/20/2022,6,93,74,Seldom,København
+506,12,84,F,solo,1/5/2023,47,6,78,Seldom,Metz
+507,12,45,M,jcb,3/1/2023,26,33,85,Daily,Ostrów Mazowiecka
+508,26,100,M,americanexpress,4/23/2023,49,46,65,Yearly,Nieuw Nickerie
+509,92,95,M,maestro,12/27/2022,35,68,93,Often,Laranganglintong
+510,86,70,M,diners-club-enroute,2/23/2023,17,22,66,Seldom,Kosamphi Nakhon
+511,27,20,M,jcb,2/4/2023,84,100,1,Yearly,Moss
+512,92,41,M,jcb,7/19/2023,76,45,65,Yearly,Khulm
+513,39,62,M,maestro,3/2/2023,41,100,64,Weekly,Koubia
+514,19,50,F,bankcard,5/9/2023,78,74,42,Daily,Wichita
+515,30,7,M,jcb,6/24/2023,99,78,54,Weekly,Wudangshan
+516,55,15,M,jcb,8/17/2023,7,51,84,Once,Dul’durga
+517,46,41,M,visa,1/7/2023,79,21,100,Seldom,Volot
+518,8,6,M,mastercard,5/10/2023,13,70,65,Yearly,Bridel
+519,23,4,F,jcb,10/14/2022,62,80,1,Monthly,North Cowichan
+520,6,50,F,jcb,5/15/2023,62,55,24,Often,Brumadinho
+521,31,59,F,laser,1/9/2023,95,54,7,Seldom,El Rincón
+522,79,71,F,maestro,10/7/2022,18,43,48,Often,Jiayi
+523,19,85,M,maestro,12/26/2022,5,38,34,Often,Xitan
+524,49,95,M,jcb,5/7/2023,60,92,36,Yearly,Maagnas
+525,84,94,M,jcb,3/20/2023,10,79,14,Daily,Jagna
+526,19,37,F,laser,5/31/2023,75,99,97,Weekly,Gus’-Zheleznyy
+527,58,10,F,jcb,12/10/2022,17,40,63,Daily,San Isidro
+528,15,54,M,diners-club-enroute,9/11/2023,5,79,73,Once,Maïné Soroa
+529,60,74,F,switch,10/23/2022,76,66,10,Once,Dayan
+530,16,58,F,mastercard,5/24/2023,28,20,94,Never,Casal do Conde
+531,11,8,M,jcb,3/7/2023,83,11,75,Never,Erdao
+532,51,22,F,bankcard,12/3/2022,83,70,25,Monthly,Igbeti
+533,6,32,M,visa,1/7/2023,93,76,96,Monthly,Karangwungu Lor
+534,40,23,M,maestro,11/8/2022,17,29,80,Once,Palencia
+535,38,28,M,jcb,1/4/2023,29,32,29,Never,Faraulep
+536,95,32,M,jcb,12/25/2022,32,81,81,Once,Tubuhue
+537,13,44,M,americanexpress,8/18/2023,94,99,90,Daily,Tambawel
+538,81,15,F,switch,4/21/2023,76,66,69,Often,Sukasari
+539,58,26,M,jcb,1/17/2023,92,6,17,Daily,Magadan
+540,58,98,F,diners-club-enroute,5/10/2023,12,86,63,Seldom,Potou
+541,44,24,F,switch,9/30/2023,95,22,62,Seldom,Frederiksberg
+542,80,24,M,jcb,5/2/2023,39,14,27,Often,Tomelilla
+543,91,48,M,diners-club-international,9/4/2023,22,25,84,Seldom,Leyuan
+544,48,66,M,bankcard,10/20/2022,27,64,58,Yearly,Horní Štěpánov
+545,44,71,F,solo,8/1/2023,56,71,19,Seldom,Nîmes
+546,81,33,M,maestro,3/18/2023,36,4,84,Seldom,Douz
+547,6,24,M,jcb,8/22/2023,43,75,17,Never,Tassin-la-Demi-Lune
+548,96,94,F,jcb,6/4/2023,65,46,25,Monthly,Mahong
+549,27,25,F,visa-electron,3/29/2023,42,35,25,Never,Tielu
+550,29,80,F,visa,5/13/2023,11,96,3,Never,Yingmaili
+551,84,50,M,jcb,10/27/2022,64,40,11,Daily,Hejiang
+552,22,90,F,jcb,11/8/2022,27,24,81,Weekly,Paterson
+553,7,43,M,jcb,12/24/2022,49,40,78,Seldom,Huilong
+554,76,54,F,maestro,1/20/2023,35,83,58,Daily,Payabon
+555,55,5,F,switch,12/17/2022,31,11,22,Often,Hobor
+556,88,97,M,jcb,8/23/2023,46,98,31,Weekly,Ospina
+557,12,86,M,mastercard,12/26/2022,46,14,39,Seldom,Salgueiro
+558,99,15,F,laser,4/1/2023,2,55,60,Never,Natu
+559,56,97,M,laser,10/3/2023,56,88,48,Never,Karvia
+560,52,59,M,mastercard,9/9/2023,94,37,15,Weekly,Beigong
+561,27,83,M,jcb,7/11/2023,29,53,35,Daily,Mawlaik
+562,73,86,F,mastercard,5/21/2023,24,31,72,Once,Magitang
+563,84,60,F,visa-electron,12/22/2022,69,18,38,Daily,Guanli
+564,56,30,F,maestro,8/24/2023,74,54,36,Daily,Sauce
+565,87,92,M,jcb,1/21/2023,79,89,77,Weekly,Santos
+566,52,82,F,jcb,5/16/2023,37,74,71,Daily,Pomichna
+567,68,30,F,jcb,3/21/2023,18,67,27,Once,Kudahuvadhoo
+568,16,100,M,jcb,1/22/2023,7,41,62,Never,Leigao
+569,38,72,F,jcb,4/15/2023,91,75,60,Monthly,Hayes
+570,58,12,F,diners-club-carte-blanche,11/23/2022,74,36,97,Daily,Itacoatiara
+571,11,82,F,visa-electron,5/7/2023,67,16,20,Seldom,Gareba
+572,29,74,F,mastercard,10/25/2022,20,69,31,Daily,Emiliano Zapata
+573,28,61,F,bankcard,2/8/2023,26,55,70,Yearly,Poputnaya
+574,67,42,F,jcb,11/20/2022,30,98,70,Yearly,Vyaz’ma
+575,31,56,F,maestro,8/3/2023,32,48,32,Seldom,Rondonópolis
+576,24,79,M,jcb,5/6/2023,10,70,8,Seldom,Trincomalee
+577,12,93,M,jcb,12/11/2022,40,91,42,Monthly,Granja
+578,45,58,F,maestro,3/29/2023,2,15,82,Never,Bagacay
+579,52,43,M,jcb,10/14/2022,46,89,6,Daily,Tamontaka
+580,84,52,M,jcb,6/18/2023,26,19,3,Never,Papringan
+581,36,80,F,laser,3/20/2023,4,69,35,Monthly,Yoiqag
+582,96,42,F,visa,10/13/2022,29,86,84,Daily,Pyongyang
+583,93,94,F,jcb,5/2/2023,51,7,84,Weekly,Ängelholm
+584,62,26,F,jcb,1/27/2023,81,70,56,Seldom,Mikstat
+585,78,34,M,diners-club-us-ca,11/6/2022,47,71,92,Daily,Paris 06
+586,74,26,M,switch,8/2/2023,77,93,21,Often,Guzhen
+587,99,24,M,diners-club-us-ca,1/21/2023,9,42,90,Once,Sigou
+588,83,56,F,jcb,4/28/2023,68,43,19,Often,Santo Anastácio
+589,30,64,F,jcb,6/18/2023,10,84,40,Weekly,Bojongsari
+590,32,30,F,diners-club-enroute,6/6/2023,93,51,76,Weekly,Jiaowei
+591,96,54,M,maestro,12/5/2022,38,91,95,Yearly,Budenovetc
+592,85,55,M,americanexpress,7/17/2023,40,62,54,Yearly,Miedzichowo
+593,60,97,F,jcb,11/3/2022,9,2,24,Often,Riangderi
+594,24,96,F,china-unionpay,7/18/2023,85,67,94,Seldom,Jiang’an
+595,74,55,F,jcb,1/5/2023,36,96,89,Often,Rozhniv
+596,63,1,M,jcb,8/1/2023,88,9,27,Often,Tongqing
+597,6,47,F,diners-club-enroute,1/31/2023,46,70,86,Seldom,Haruman
+598,82,43,F,jcb,4/8/2023,43,24,34,Monthly,Nong Ruea
+599,15,1,F,solo,11/29/2022,99,3,12,Often,Columbus
+600,4,22,F,jcb,2/10/2023,92,25,30,Daily,Lingmen
+601,56,64,M,switch,7/13/2023,7,18,35,Yearly,Tigbaw
+602,4,68,M,jcb,11/18/2022,56,47,93,Seldom,Vorzel’
+603,2,19,M,jcb,2/8/2023,50,4,94,Yearly,Paucarcolla
+604,41,11,M,jcb,1/17/2023,77,1,94,Monthly,Marantao
+605,89,65,M,maestro,4/29/2023,5,83,20,Never,Leifeng
+606,93,49,M,laser,9/21/2023,11,26,28,Yearly,Āstārā
+607,21,21,F,diners-club-enroute,6/26/2023,20,88,97,Monthly,Oldřišov
+608,20,62,M,maestro,8/7/2023,99,65,98,Monthly,Verin Dvin
+609,100,39,M,jcb,6/1/2023,55,73,16,Seldom,Campraksanta
+610,95,81,F,mastercard,2/7/2023,7,8,73,Once,Kertasari
+611,70,59,F,jcb,5/17/2023,10,87,86,Yearly,Forécariah
+612,35,72,M,americanexpress,8/26/2023,59,78,22,Daily,Bhāi Pheru
+613,2,53,M,jcb,10/21/2022,74,51,64,Yearly,Shaguotun
+614,84,22,F,instapayment,4/8/2023,96,5,28,Never,Trucuk
+615,56,86,M,jcb,2/17/2023,41,27,60,Once,Mīrpur Māthelo
+616,26,16,M,switch,1/2/2023,99,67,100,Daily,Dongfeng
+617,16,21,F,jcb,8/19/2023,51,99,85,Often,Chafé
+618,35,11,M,jcb,6/13/2023,44,76,18,Often,Ijuí
+619,31,33,F,china-unionpay,3/28/2023,18,73,87,Monthly,Longka
+620,61,81,M,mastercard,11/22/2022,34,52,19,Seldom,Alīābad
+621,80,11,M,jcb,8/8/2023,23,41,98,Yearly,Anseong
+622,51,83,F,instapayment,8/21/2023,100,89,59,Once,Gadžin Han
+623,84,77,M,diners-club-us-ca,9/6/2023,43,22,58,Daily,Słubice
+624,75,85,F,diners-club-carte-blanche,6/30/2023,25,86,21,Weekly,Kołaczyce
+625,27,1,F,switch,11/23/2022,78,14,60,Yearly,Santa Iria de Azóia
+626,95,43,M,diners-club-enroute,1/16/2023,3,81,56,Weekly,Dayou
+627,26,14,M,jcb,12/27/2022,38,96,17,Yearly,Novomykolayivka
+628,47,63,F,laser,4/10/2023,67,1,47,Monthly,Hirara
+629,12,95,F,jcb,7/17/2023,81,62,88,Often,Qingshui
+630,92,55,M,visa,9/28/2023,98,66,68,Often,Dajasongai
+631,14,79,M,laser,11/16/2022,91,14,14,Yearly,Porvoo
+632,99,53,F,switch,11/19/2022,51,52,6,Daily,Quintela
+633,20,97,F,mastercard,8/20/2023,52,68,61,Yearly,Täby
+634,38,34,F,mastercard,4/4/2023,63,83,99,Never,Bolikhan
+635,75,37,M,visa-electron,4/19/2023,11,74,69,Monthly,Bilice
+636,48,85,M,jcb,6/19/2023,69,68,60,Often,Xinhua
+637,95,68,F,switch,11/17/2022,11,2,82,Monthly,Jiaoyuan
+638,93,77,M,jcb,6/28/2023,98,2,29,Yearly,Liugong
+639,84,41,F,jcb,8/10/2023,8,65,27,Never,Gaoming
+640,7,62,M,jcb,12/28/2022,46,23,24,Seldom,Leńcze
+641,71,32,F,jcb,6/6/2023,6,37,31,Yearly,Tarqūmyā
+642,1,18,M,switch,12/8/2022,89,74,87,Daily,Mílos
+643,3,87,M,jcb,2/27/2023,100,90,80,Monthly,Dubai
+644,17,81,M,jcb,12/15/2022,49,30,5,Once,Lumijoki
+645,29,68,F,jcb,4/5/2023,23,39,92,Never,Hongshan
+646,57,52,F,visa,6/18/2023,88,8,72,Yearly,Marseille
+647,71,49,M,diners-club-enroute,7/2/2023,26,13,45,Yearly,Thulamahashi
+648,24,9,M,mastercard,8/8/2023,57,100,99,Yearly,Antas
+649,89,72,M,jcb,5/19/2023,29,30,81,Daily,Redakodi
+650,12,52,M,switch,10/3/2023,26,89,94,Daily,Xinning
+651,9,68,M,laser,1/29/2023,88,36,43,Seldom,Sakado
+652,92,97,F,jcb,2/16/2023,57,84,22,Often,Taiping
+653,39,25,F,laser,1/28/2023,50,13,48,Monthly,Makoko
+654,51,18,F,switch,1/7/2023,90,1,27,Monthly,Banjar Anyar
+655,15,100,F,laser,1/9/2023,85,74,15,Often,Qacha’s Nek
+656,70,25,M,visa,8/19/2023,69,99,3,Seldom,Nasielsk
+657,15,23,F,diners-club-enroute,6/2/2023,75,100,12,Never,Kunyang
+658,23,98,M,visa-electron,6/1/2023,88,13,75,Daily,Anolaima
+659,73,92,M,china-unionpay,5/25/2023,4,2,21,Seldom,Finspång
+660,70,35,F,visa-electron,2/28/2023,82,50,12,Never,San Clemente
+661,83,38,M,jcb,12/28/2022,97,45,33,Often,Jetis
+662,20,63,F,laser,8/20/2023,29,25,37,Daily,Hecun
+663,84,71,M,bankcard,7/30/2023,94,62,39,Daily,Cosmópolis
+664,80,53,F,diners-club-carte-blanche,5/13/2023,16,89,43,Often,Ojo de Agua
+665,59,20,M,bankcard,10/10/2022,57,94,61,Weekly,Melong
+666,56,86,M,diners-club-enroute,9/6/2023,64,13,76,Yearly,Bang Sao Thong
+667,76,44,F,bankcard,4/26/2023,85,22,55,Never,Incheon
+668,32,9,M,americanexpress,10/6/2022,58,63,45,Once,Eshan
+669,25,28,M,jcb,2/13/2023,82,100,97,Weekly,Tours
+670,89,40,F,mastercard,12/23/2022,10,92,82,Never,Ning’an
+671,79,31,F,jcb,11/15/2022,65,16,50,Yearly,Lillehammer
+672,9,56,M,visa-electron,2/12/2023,62,66,43,Monthly,Trondheim
+673,76,12,M,mastercard,5/15/2023,69,73,79,Daily,Kudang
+674,63,84,F,diners-club-carte-blanche,8/24/2023,43,70,4,Seldom,Duran
+675,5,42,F,jcb,3/8/2023,47,57,20,Monthly,Zhonghe
+676,2,69,F,maestro,5/21/2023,27,33,9,Monthly,Arcangel
+677,60,6,M,mastercard,5/22/2023,61,41,18,Monthly,Kirtipur
+678,73,21,F,jcb,2/13/2023,91,98,87,Weekly,Tall Abyaḑ
+679,32,97,F,diners-club-carte-blanche,5/2/2023,72,71,68,Weekly,Santa Cruz
+680,89,74,F,jcb,7/31/2023,33,84,86,Weekly,Kota Kinabalu
+681,87,63,M,jcb,7/10/2023,74,34,37,Never,Huari
+682,7,52,F,switch,7/21/2023,22,61,46,Daily,Resplendor
+683,91,35,M,mastercard,12/25/2022,88,23,53,Once,Zhangjiaji
+684,3,26,M,jcb,11/20/2022,7,19,37,Daily,Nueva Arica
+685,3,57,F,visa-electron,2/27/2023,49,46,74,Weekly,Ýdra
+686,89,54,F,jcb,3/4/2023,92,61,98,Seldom,Tonjongsari
+687,31,5,F,bankcard,8/14/2023,14,17,52,Weekly,Kalapagenep
+688,46,42,M,americanexpress,9/27/2023,53,64,88,Never,Mandráki
+689,48,32,F,jcb,2/27/2023,33,42,6,Once,Shipka
+690,1,2,F,jcb,1/5/2023,5,90,1,Daily,Szamotuły
+691,65,28,M,diners-club-enroute,2/11/2023,44,71,44,Daily,Fengniancun
+692,73,76,F,mastercard,7/1/2023,42,82,33,Once,Bochov
+693,43,42,F,americanexpress,3/26/2023,44,3,56,Seldom,Misasi
+694,100,100,F,diners-club-carte-blanche,10/24/2022,13,96,50,Never,Trollhättan
+695,96,7,M,jcb,4/8/2023,70,37,68,Once,Dagu
+696,82,29,M,jcb,6/8/2023,58,49,21,Yearly,Kowala
+697,17,83,F,mastercard,7/2/2023,100,38,65,Yearly,Thetford-Mines
+698,56,11,M,jcb,4/13/2023,38,76,79,Once,Radenković
+699,32,8,F,switch,10/9/2022,28,100,52,Monthly,Granada
+700,9,92,M,instapayment,1/8/2023,6,76,100,Never,São Pedro
+701,43,68,F,maestro,11/23/2022,33,30,83,Seldom,Tambo
+702,88,42,F,diners-club-carte-blanche,11/14/2022,53,30,52,Monthly,Tsementnozavodskiy
+703,50,93,F,visa,4/28/2023,29,89,98,Seldom,Seixo Alvo
+704,36,41,F,bankcard,5/17/2023,38,93,40,Monthly,Kołbaskowo
+705,96,9,F,bankcard,1/9/2023,58,52,42,Yearly,Saint-Dizier
+706,25,47,F,diners-club-enroute,10/28/2022,21,97,58,Often,Subic
+707,38,85,M,jcb,10/28/2022,2,57,87,Yearly,Kawungsari
+708,62,48,F,jcb,4/18/2023,42,67,27,Monthly,Wailang
+709,17,65,F,jcb,11/8/2022,5,92,49,Never,Stockholm
+710,73,87,F,visa,5/24/2023,56,95,55,Often,Niagara Falls
+711,42,96,F,visa-electron,11/5/2022,28,52,48,Often,Jingcheng
+712,41,78,F,mastercard,4/9/2023,45,68,47,Monthly,Young America
+713,29,59,M,jcb,1/24/2023,89,33,46,Yearly,Sabadell
+714,98,59,M,china-unionpay,12/30/2022,55,39,93,Often,Juarez
+715,93,68,M,jcb,2/26/2023,97,74,15,Daily,Sandefjord
+716,15,3,F,jcb,6/12/2023,36,100,21,Yearly,Virojoki
+717,77,67,M,diners-club-enroute,11/17/2022,28,9,63,Monthly,Portalegre
+718,29,40,M,instapayment,2/20/2023,34,74,60,Daily,Luleå
+719,13,16,F,jcb,2/4/2023,83,67,100,Daily,Tudela
+720,72,61,M,diners-club-enroute,1/14/2023,86,95,75,Daily,Adolfo Lopez Mateos
+721,72,3,M,jcb,9/30/2023,36,12,73,Monthly,Lac La Biche
+722,42,59,F,jcb,12/8/2022,2,93,6,Yearly,Baishi
+723,70,2,F,switch,12/5/2022,34,41,25,Seldom,Gaoqiao
+724,74,73,F,instapayment,7/5/2023,32,22,97,Yearly,La Libertad
+725,84,54,F,jcb,9/8/2023,89,83,99,Daily,Zouparria do Monte
+726,73,43,M,jcb,6/7/2023,2,100,40,Once,Bidikotak
+727,50,45,F,jcb,9/5/2023,86,97,20,Weekly,Nanjing
+728,100,24,M,diners-club-carte-blanche,10/21/2022,75,20,50,Often,Fais
+729,93,7,M,jcb,12/31/2022,95,41,23,Seldom,Jiazhuang
+730,48,86,M,maestro,3/30/2023,24,84,5,Weekly,Hennenman
+731,78,12,M,china-unionpay,9/14/2023,44,20,80,Daily,Bergen
+732,10,97,M,jcb,4/1/2023,56,13,42,Daily,Dongxiang
+733,42,21,F,laser,8/13/2023,80,18,74,Monthly,Tervel
+734,18,14,F,bankcard,2/7/2023,96,94,6,Once,Ferme-Neuve
+735,30,92,F,jcb,7/25/2023,13,69,13,Often,Tshaneni
+736,80,76,F,mastercard,3/17/2023,17,46,39,Once,Ichinomiya
+737,68,78,F,jcb,5/3/2023,52,68,65,Daily,Jose Maria Morelos
+738,69,50,F,mastercard,7/15/2023,1,71,23,Daily,Rongkou
+739,11,22,F,americanexpress,1/27/2023,8,46,58,Monthly,Tilburg
+740,2,45,F,mastercard,7/31/2023,50,6,56,Never,Betafo
+741,20,3,F,jcb,11/12/2022,57,50,99,Never,Veisiejai
+742,54,79,M,switch,9/8/2023,70,77,9,Daily,Messina
+743,11,16,F,maestro,4/3/2023,83,53,8,Weekly,Sofrino
+744,92,68,M,mastercard,5/2/2023,20,8,48,Monthly,Pereleshino
+745,47,63,F,diners-club-enroute,10/7/2022,4,6,72,Never,Waru Selatan
+746,81,97,M,mastercard,9/30/2023,35,40,16,Often,Otan Aiyegbaju
+747,94,61,F,jcb,12/10/2022,18,55,77,Once,Saskatoon
+748,60,35,M,mastercard,5/10/2023,31,65,47,Never,Kebunan
+749,17,65,F,diners-club-us-ca,1/27/2023,23,81,5,Once,Olofström
+750,1,77,M,solo,2/9/2023,2,83,69,Monthly,Martapura
+751,99,69,F,maestro,1/23/2023,52,15,5,Often,Khao Khitchakut
+752,14,68,F,jcb,10/18/2022,18,10,43,Daily,Carpentras
+753,95,91,M,china-unionpay,10/8/2022,49,14,66,Never,Yanghou
+754,53,90,M,maestro,4/15/2023,12,52,71,Seldom,Stoczek
+755,94,69,F,jcb,9/11/2023,15,94,29,Daily,Mont-Dore
+756,50,4,F,china-unionpay,12/12/2022,16,57,70,Once,Laiya
+757,12,18,F,jcb,9/10/2023,54,89,81,Often,Thành Phố Bà Rịa
+758,77,42,F,americanexpress,10/21/2022,81,82,5,Daily,Shanban
+759,53,27,F,diners-club-us-ca,9/30/2023,5,87,26,Often,Strenči
+760,9,50,F,bankcard,9/22/2023,37,45,87,Daily,Nove-Misto
+761,56,60,F,jcb,2/2/2023,32,53,45,Weekly,Looc
+762,60,6,M,jcb,7/25/2023,16,73,44,Monthly,Zarechnyy
+763,75,72,M,instapayment,9/12/2023,9,69,95,Never,Hino
+764,67,48,M,jcb,5/13/2023,88,41,2,Yearly,Redinha
+765,43,42,F,visa-electron,1/22/2023,75,86,61,Monthly,Darma
+766,36,14,F,diners-club-carte-blanche,9/25/2023,86,14,63,Daily,Mansa
+767,52,71,M,jcb,8/31/2023,26,44,7,Weekly,Panjakent
+768,88,36,F,laser,4/4/2023,15,33,5,Never,El Aïoun
+769,6,9,F,jcb,2/9/2023,85,86,45,Seldom,Longmen
+770,44,17,F,visa-electron,5/6/2023,68,44,12,Seldom,Subottsi
+771,53,73,F,jcb,8/19/2023,77,97,72,Once,Renhe
+772,43,68,M,diners-club-carte-blanche,9/9/2023,93,87,100,Yearly,Plei Kần
+773,25,42,M,jcb,12/3/2022,17,17,99,Monthly,Amos
+774,46,60,M,laser,11/8/2022,80,12,10,Never,Dabancheng
+775,93,4,M,diners-club-us-ca,8/6/2023,80,20,79,Yearly,Zhuji
+776,43,61,F,diners-club-carte-blanche,6/7/2023,90,6,44,Monthly,Aldeia de Juzo
+777,42,58,F,jcb,5/31/2023,8,25,28,Seldom,Arendal
+778,91,5,M,visa,10/30/2022,81,53,93,Daily,Haiyangsuo
+779,24,20,M,americanexpress,12/20/2022,33,20,9,Once,Bisert’
+780,6,95,M,solo,3/1/2023,64,70,27,Often,Shuangxing
+781,48,69,F,jcb,7/18/2023,17,43,93,Monthly,Nangabere
+782,25,58,M,jcb,3/23/2023,58,37,10,Never,Calimita
+783,80,30,F,americanexpress,7/19/2023,76,35,7,Weekly,Choibalsan
+784,25,52,F,mastercard,7/21/2023,95,10,5,Monthly,Pau
+785,78,13,M,jcb,7/20/2023,62,54,90,Monthly,Blantyre
+786,33,98,M,jcb,3/9/2023,36,37,8,Weekly,Biên Hòa
+787,68,11,F,visa,12/3/2022,36,46,60,Once,Lypova Dolyna
+788,89,86,M,jcb,8/2/2023,71,73,50,Seldom,Miharu
+789,79,35,F,mastercard,6/3/2023,24,50,96,Often,Shaliu
+790,4,3,F,jcb,8/8/2023,61,47,29,Often,Granja
+791,62,21,F,instapayment,8/11/2023,8,49,58,Seldom,Chiclayo
+792,45,83,M,china-unionpay,12/22/2022,49,43,7,Daily,Qiting
+793,34,38,M,switch,3/7/2023,11,62,27,Monthly,Akashi
+794,29,97,F,laser,5/24/2023,18,79,84,Seldom,Kombandaru
+795,4,95,F,jcb,4/27/2023,63,39,98,Weekly,Burgersfort
+796,33,31,F,jcb,2/15/2023,38,24,71,Once,Larkird
+797,82,33,F,americanexpress,1/6/2023,19,8,54,Often,Kazo
+798,15,86,F,jcb,2/24/2023,56,19,2,Once,Rennes
+799,16,60,F,jcb,3/11/2023,55,95,53,Often,Chengdong
+800,47,20,F,maestro,11/10/2022,36,71,68,Daily,Dianwan
+801,70,2,F,jcb,8/27/2023,1,44,4,Once,Sosnytsya
+802,44,54,M,switch,7/30/2023,4,87,47,Daily,Ungheni
+803,62,18,M,jcb,11/29/2022,15,75,73,Yearly,Pruszków
+804,82,14,M,jcb,3/29/2023,3,64,51,Once,Jiyang
+805,86,39,F,americanexpress,10/6/2022,57,60,50,Monthly,Babahoyo
+806,28,58,F,jcb,5/7/2023,36,57,65,Often,Sísion
+807,82,76,M,jcb,6/5/2023,62,33,76,Seldom,Botshabelo
+808,43,83,F,visa-electron,7/1/2023,30,6,63,Daily,Nacka
+809,48,15,F,jcb,1/20/2023,62,92,77,Seldom,Ipoh
+810,5,73,F,jcb,1/1/2023,19,36,1,Daily,Moglicë
+811,68,43,M,diners-club-carte-blanche,10/21/2022,23,95,41,Yearly,Bessonovka
+812,47,15,M,jcb,5/5/2023,56,77,73,Weekly,Irecê
+813,99,14,M,china-unionpay,5/7/2023,42,31,83,Monthly,Segong
+814,27,53,M,jcb,10/2/2023,81,34,78,Never,Lagunillas
+815,41,7,F,jcb,1/9/2023,80,34,7,Weekly,Baoji
+816,38,63,M,bankcard,9/29/2023,48,20,1,Often,Nago
+817,31,41,F,visa,10/11/2022,22,91,52,Yearly,Krynice
+818,38,4,F,jcb,4/5/2023,53,55,92,Often,Huansheng
+819,57,10,M,jcb,2/23/2023,12,86,30,Weekly,Yubileynyy
+820,67,8,M,jcb,4/18/2023,50,32,96,Yearly,Iowa City
+821,92,58,F,jcb,11/16/2022,60,8,48,Monthly,Nanpu
+822,46,97,M,americanexpress,5/25/2023,65,12,84,Often,Kalanguy
+823,88,98,M,jcb,3/2/2023,48,91,10,Weekly,La Cumbre
+824,34,32,F,bankcard,5/23/2023,79,16,98,Weekly,Yilkiqi
+825,71,11,M,maestro,10/29/2022,100,51,74,Yearly,Linchen
+826,82,21,F,switch,7/14/2023,47,4,11,Once,Khvānsār
+827,94,78,M,jcb,10/16/2022,10,100,77,Once,Linköping
+828,17,12,M,visa-electron,7/17/2023,89,40,85,Yearly,Masjed Soleymān
+829,19,46,M,jcb,5/2/2023,35,88,95,Daily,Ciputih
+830,7,6,F,bankcard,10/4/2022,17,55,20,Monthly,Port Loko
+831,85,87,M,jcb,1/21/2023,85,29,92,Once,Chaupimarca
+832,26,29,M,jcb,5/6/2023,49,89,27,Monthly,Shaogongzhuang
+833,78,62,M,maestro,3/15/2023,91,21,89,Seldom,Paris 01
+834,60,38,M,jcb,5/12/2023,53,49,67,Never,Rychwał
+835,39,16,M,solo,9/30/2023,25,77,85,Never,Pervomaysk
+836,4,78,F,mastercard,4/12/2023,31,53,7,Yearly,Ngamba
+837,13,31,M,jcb,9/6/2023,89,98,29,Never,Paratinga
+838,55,18,M,visa-electron,5/31/2023,59,35,42,Never,Yuhuang
+839,3,15,F,visa-electron,10/31/2022,55,74,55,Seldom,Nyzhni Sirohozy
+840,97,99,M,jcb,4/16/2023,23,6,79,Daily,Ussel
+841,62,71,F,china-unionpay,3/10/2023,29,69,74,Daily,Cikiray
+842,28,53,F,jcb,8/2/2023,87,9,37,Never,Charleston
+843,59,75,M,jcb,11/1/2022,19,42,29,Daily,Henglu
+844,65,25,F,diners-club-enroute,9/9/2023,47,22,18,Often,Kurumoch
+845,63,76,F,china-unionpay,10/29/2022,37,82,97,Seldom,Nakhon Pathom
+846,98,85,M,americanexpress,12/27/2022,51,69,63,Daily,Greenville
+847,22,91,M,jcb,6/2/2023,14,77,51,Often,Vejprnice
+848,98,73,F,switch,3/6/2023,42,2,99,Monthly,Gazojak
+849,80,67,M,solo,3/13/2023,52,67,46,Once,Klapagading
+850,9,24,M,visa-electron,7/16/2023,95,3,90,Weekly,Arruda dos Vinhos
+851,79,76,F,switch,4/24/2023,9,89,74,Monthly,Jinping
+852,43,70,F,switch,2/9/2023,88,81,57,Weekly,Log
+853,21,13,M,laser,8/18/2023,94,63,47,Seldom,Jaru
+854,88,92,M,jcb,7/30/2023,89,48,65,Never,Paucarbamba
+855,77,92,M,bankcard,7/19/2023,8,83,27,Often,Jieheshi
+856,77,44,M,switch,10/15/2022,93,49,1,Daily,Francisco I Madero
+857,24,86,M,diners-club-enroute,11/25/2022,49,31,93,Monthly,Kuala Bintang
+858,31,85,M,bankcard,7/20/2023,65,90,1,Yearly,Ban Fang
+859,1,41,M,instapayment,6/5/2023,46,75,88,Monthly,Pizarro
+860,51,17,F,mastercard,6/14/2023,57,17,58,Weekly,Rancaranji
+861,6,49,M,diners-club-us-ca,11/26/2022,1,87,58,Seldom,Banawang
+862,40,85,M,jcb,9/7/2023,93,19,6,Once,Bokkos
+863,32,67,F,mastercard,9/18/2023,43,79,33,Seldom,Jakhaly
+864,15,39,F,diners-club-carte-blanche,5/10/2023,79,55,46,Often,Polloc
+865,68,22,M,americanexpress,9/29/2023,60,77,78,Once,Orhei
+866,93,85,F,jcb,7/6/2023,56,48,38,Once,Manolo Fortich
+867,96,15,M,laser,9/17/2023,92,56,76,Daily,El Tambo
+868,50,22,F,jcb,10/10/2022,43,65,9,Never,Weitian
+869,63,24,F,switch,5/16/2023,97,38,92,Monthly,Dioila
+870,80,59,F,diners-club-us-ca,11/21/2022,54,26,24,Monthly,Laixi
+871,79,37,F,americanexpress,12/14/2022,97,83,35,Yearly,Jishan
+872,31,59,F,visa,11/14/2022,43,37,34,Once,Sakado
+873,58,34,M,jcb,10/22/2022,92,1,71,Yearly,Cijayana
+874,58,40,M,jcb,6/2/2023,8,13,55,Often,Tukuyu
+875,99,15,M,diners-club-carte-blanche,9/30/2023,79,18,77,Once,Şabbūrah
+876,85,51,F,mastercard,10/26/2022,17,49,54,Never,Arujá
+877,86,43,M,jcb,3/19/2023,33,17,2,Once,Dewetsdorp
+878,70,81,F,jcb,4/3/2023,37,14,84,Once,Belanting
+879,3,55,M,visa-electron,11/19/2022,47,85,97,Never,Jiandou
+880,42,59,M,jcb,1/12/2023,61,95,69,Seldom,Zduńska Wola
+881,99,3,F,jcb,6/21/2023,19,1,79,Once,Ronggo
+882,27,46,F,visa-electron,4/23/2023,11,50,63,Monthly,Guadalupe
+883,60,100,M,mastercard,4/25/2023,92,89,36,Monthly,Gbarnga
+884,96,81,M,jcb,9/26/2023,13,9,31,Once,Rosso
+885,85,63,M,diners-club-carte-blanche,3/7/2023,30,44,54,Weekly,Borgustanskaya
+886,57,74,M,jcb,6/4/2023,50,93,67,Never,Poste de Flacq
+887,93,10,F,jcb,4/23/2023,74,21,63,Seldom,Hezhang
+888,18,100,M,jcb,6/13/2023,13,78,58,Never,Pinhal da Marquesa
+889,56,78,M,jcb,8/31/2023,68,23,99,Daily,Jiangkou
+890,5,11,M,jcb,3/4/2023,97,84,24,Never,Sevilla
+891,46,52,F,jcb,6/7/2023,89,67,97,Daily,Markova
+892,71,21,M,jcb,1/9/2023,25,40,21,Daily,Vila Franca das Naves
+893,30,89,F,jcb,1/2/2023,25,94,13,Never,Negotin
+894,34,80,F,switch,6/30/2023,85,30,32,Seldom,Chuqui Chuqui
+895,36,91,F,diners-club-enroute,9/5/2023,40,67,79,Yearly,Akebielidou
+896,81,54,F,jcb,6/29/2023,64,3,99,Yearly,Shuanglong
+897,90,80,F,jcb,7/20/2023,62,56,100,Often,Ozerki
+898,5,91,M,jcb,7/30/2023,79,70,22,Never,Huicheng
+899,91,2,F,jcb,1/8/2023,8,28,5,Seldom,Manadas
+900,30,69,F,mastercard,3/19/2023,3,63,100,Yearly,Néa Róda
+901,58,28,M,maestro,12/20/2022,15,32,99,Monthly,Lugo
+902,3,47,M,maestro,7/21/2023,80,58,81,Monthly,Aktogay
+903,92,89,M,switch,8/31/2023,42,63,29,Often,Jīroft
+904,74,95,M,jcb,4/27/2023,8,83,97,Daily,Yanghuxiang
+905,67,79,M,jcb,3/28/2023,43,80,4,Weekly,Huafeng
+906,18,9,F,jcb,7/20/2023,64,20,5,Daily,Tuanlin
+907,39,77,M,visa,8/19/2023,93,58,7,Monthly,Huayllabamba
+908,56,11,M,instapayment,6/11/2023,80,20,88,Seldom,Néa Ankhíalos
+909,67,19,F,jcb,4/8/2023,87,99,26,Daily,Buni Yadi
+910,17,88,M,visa-electron,8/26/2023,64,58,76,Once,Bearna
+911,42,5,F,jcb,12/28/2022,61,66,84,Seldom,El Copé
+912,91,6,F,americanexpress,7/23/2023,89,89,1,Seldom,Sipirok
+913,8,44,F,diners-club-us-ca,12/16/2022,12,25,79,Daily,Horvati
+914,27,14,F,bankcard,1/5/2023,43,88,47,Never,London
+915,16,36,F,jcb,12/26/2022,31,69,44,Weekly,Nový Bydžov
+916,79,2,M,jcb,12/1/2022,83,61,82,Yearly,Jiantianjie
+917,35,85,M,jcb,11/9/2022,49,65,99,Once,Balekersukamaju
+918,92,17,F,jcb,9/27/2023,74,59,34,Often,Cabanilla
+919,34,7,F,instapayment,12/28/2022,68,10,92,Seldom,Norrtälje
+920,28,19,F,jcb,5/20/2023,21,38,11,Yearly,Zhoujiang
+921,52,74,M,jcb,5/10/2023,28,18,8,Seldom,Mathba
+922,18,76,M,jcb,10/1/2023,11,57,79,Seldom,Farranacoush
+923,47,59,F,jcb,7/5/2023,32,60,35,Yearly,Horní Čermná
+924,66,52,F,jcb,11/6/2022,60,82,96,Yearly,Koropí
+925,42,45,M,diners-club-enroute,10/17/2022,39,71,91,Daily,Wanjiazhuang
+926,60,3,M,visa-electron,3/18/2023,3,61,46,Monthly,Tongyangdao
+927,64,6,F,jcb,4/24/2023,94,98,60,Weekly,Tampa
+928,18,8,F,mastercard,3/23/2023,18,86,100,Monthly,Wangying
+929,34,86,F,diners-club-carte-blanche,3/14/2023,28,55,25,Never,Cikadu
+930,50,41,F,jcb,2/18/2023,83,69,62,Seldom,Jaroměřice
+931,94,46,F,americanexpress,2/22/2023,5,81,64,Yearly,Malvern
+932,8,19,F,diners-club-international,7/31/2023,95,17,100,Weekly,Kybartai
+933,39,79,F,jcb,12/10/2022,80,48,46,Weekly,Manay
+934,96,83,M,bankcard,9/3/2023,1,93,94,Never,Vichy
+935,19,9,M,switch,10/8/2022,62,24,85,Often,Chongxing
+936,20,28,F,china-unionpay,12/2/2022,92,13,73,Monthly,Comitancillo
+937,98,52,M,jcb,4/20/2023,69,18,45,Often,Vårby
+938,98,28,M,diners-club-carte-blanche,11/20/2022,13,37,57,Yearly,Pernå
+939,48,79,M,maestro,3/7/2023,84,4,93,Daily,Kathu
+940,58,40,M,switch,12/28/2022,59,78,5,Once,Toyooka
+941,6,64,M,jcb,12/11/2022,15,80,98,Never,Senglea
+942,100,12,M,jcb,6/24/2023,28,58,84,Once,Rio Claro
+943,59,46,F,diners-club-enroute,10/14/2022,46,59,39,Never,Dolní Bojanovice
+944,45,15,M,jcb,11/13/2022,9,78,50,Daily,Guanshan
+945,50,79,M,jcb,3/14/2023,72,92,82,Daily,Hvar
+946,24,57,F,diners-club-us-ca,10/11/2022,4,89,58,Weekly,Cibeureum Satu
+947,62,45,F,jcb,5/1/2023,62,28,20,Once,Gore
+948,62,30,F,jcb,6/23/2023,59,74,6,Seldom,Iwonicz-Zdrój
+949,41,1,M,americanexpress,6/15/2023,54,65,86,Monthly,Piskivka
+950,6,96,M,diners-club-enroute,6/7/2023,88,54,10,Weekly,Shilin
+951,38,37,F,maestro,9/29/2023,74,59,42,Daily,Enewetak
+952,5,80,M,instapayment,9/7/2023,77,25,58,Daily,Las Vegas
+953,99,61,F,jcb,1/8/2023,52,98,81,Once,Kolodeznyy
+954,18,94,F,laser,6/23/2023,18,36,61,Yearly,Gujō
+955,76,73,M,china-unionpay,8/9/2023,88,16,99,Seldom,Sintansin
+956,38,100,F,china-unionpay,12/20/2022,21,52,96,Often,Vandœuvre-lès-Nancy
+957,29,43,M,mastercard,5/5/2023,16,60,8,Never,Guzhuyingzi
+958,23,68,M,jcb,8/11/2023,89,63,50,Never,Glempang Tengah
+959,19,96,F,mastercard,4/21/2023,75,84,88,Seldom,Greytown
+960,32,24,M,bankcard,10/16/2022,5,51,11,Once,Loúros
+961,23,47,M,jcb,3/2/2023,18,23,77,Monthly,Aioi
+962,8,91,F,diners-club-enroute,11/22/2022,97,5,59,Once,Nakhon Pathom
+963,12,5,M,instapayment,6/28/2023,90,77,53,Yearly,Keumala
+964,59,1,M,jcb,7/6/2023,90,42,89,Once,Dafundo
+965,24,63,M,switch,12/20/2022,1,45,39,Weekly,Velyki Kopany
+966,51,68,M,diners-club-enroute,7/20/2023,34,14,92,Daily,Akademgorodok
+967,33,79,M,maestro,6/25/2023,12,90,19,Weekly,Prienai
+968,17,5,M,jcb,8/22/2023,1,57,9,Often,Shāhpur
+969,35,81,M,diners-club-us-ca,5/1/2023,49,66,11,Seldom,Tijão
+970,41,36,M,jcb,3/7/2023,63,45,64,Daily,Gorno Orizari
+971,53,76,F,switch,12/21/2022,54,22,73,Seldom,Mollepampa
+972,16,66,F,jcb,7/23/2023,38,87,16,Weekly,Rizal
+973,90,69,F,jcb,5/17/2023,23,33,93,Seldom,Pavlysh
+974,58,69,M,mastercard,1/25/2023,41,98,76,Often,Kletek
+975,51,5,F,jcb,11/23/2022,83,96,74,Never,La Rochelle
+976,60,53,M,jcb,7/8/2023,42,3,5,Never,Budënnovsk
+977,14,74,F,mastercard,1/5/2023,60,10,53,Often,Lokossa
+978,65,19,M,jcb,9/12/2023,56,61,25,Weekly,Saint-Amand-les-Eaux
+979,15,7,M,china-unionpay,8/18/2023,88,12,83,Once,Krajan
+980,98,80,F,bankcard,8/10/2023,88,89,95,Yearly,Lyozna
+981,50,5,F,mastercard,6/11/2023,56,64,25,Monthly,Villa Dolores
+982,85,82,M,maestro,3/23/2023,45,68,81,Monthly,Jalālābād
+983,46,6,F,jcb,8/3/2023,78,46,85,Once,Challas
+984,77,38,M,jcb,3/25/2023,91,2,83,Never,Příšovice
+985,33,17,M,jcb,7/26/2023,24,91,32,Seldom,Kozyatyn
+986,15,84,M,jcb,9/21/2023,3,43,25,Monthly,Busia
+987,66,22,F,jcb,5/6/2023,55,85,14,Daily,Modakeke
+988,90,11,F,diners-club-carte-blanche,10/24/2022,61,87,58,Once,Samir
+989,76,25,M,mastercard,4/5/2023,39,51,81,Yearly,Shenavan
+990,91,1,F,diners-club-us-ca,1/20/2023,11,69,50,Yearly,San Roque
+991,95,91,F,americanexpress,11/30/2022,88,75,7,Once,Tiko
+992,18,19,F,jcb,4/1/2023,47,63,66,Daily,Ban Selaphum
+993,5,51,M,jcb,3/9/2023,63,73,8,Seldom,Yessentukskaya
+994,19,95,F,diners-club-carte-blanche,9/27/2023,35,27,55,Never,Jilib
+995,76,59,M,solo,3/11/2023,82,9,32,Never,Babakan
+996,30,99,M,americanexpress,12/6/2022,76,38,23,Daily,Gaotian
+997,17,12,F,jcb,1/18/2023,33,22,65,Weekly,Taoyuan
+998,7,23,F,switch,8/30/2023,12,49,47,Seldom,Yanwo
+999,9,50,F,diners-club-enroute,2/20/2023,90,49,35,Monthly,Dundrum
+1000,31,59,M,mastercard,9/29/2023,81,5,65,Weekly,Murmino
